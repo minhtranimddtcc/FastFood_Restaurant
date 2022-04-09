@@ -1,0 +1,12 @@
+.App {
+  font-size: 30pt;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.App > * {
+  margin: 10px 0px;
+}
